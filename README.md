@@ -1,5 +1,15 @@
 ### Hi there 👋
 
+I'm Anton, an aspiring web-developer.
+
+### Here are some of my projects:
+
+- [kombine](https://github.com/noneinnon/kombine) a javascript library to render pages built with your favorite SPA framework.
+- [Trip planner](https://github.com/noneinnon/trip-planner) a telegram chat bot for planning bike trips and discovering new routes.
+
+
+[![My Skills](https://skillicons.dev/icons?i=js,clojure,python)](https://skillicons.dev)
+
 <!--
 **noneinnon/noneinnon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
