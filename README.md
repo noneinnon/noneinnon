@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm Anton, an aspiring web-developer.
+I'm Anton.
 
 ### Here are some of my projects:
 
